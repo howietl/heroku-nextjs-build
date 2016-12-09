@@ -1,5 +1,5 @@
 {
-  "name": "@mars/heroku-nextjs-build",
+  "name": "@howietl/heroku-nextjs-build",
   "version": "1.0.1",
   "description": "Heroku build adapter for Next.js",
   "bin": {
@@ -7,12 +7,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mars/heroku-nextjs-build.git"
-  },
-  "author": "Mars Hall",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mars/heroku-nextjs-build/issues"
-  },
-  "homepage": "https://github.com/mars/heroku-nextjs-build#readme"
+    "url": "git+https://github.com/howietl/heroku-nextjs-build.git"
+  }
 }
